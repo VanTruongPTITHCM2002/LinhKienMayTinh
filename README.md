@@ -1,0 +1,3 @@
+Xây dựng website bán linh kiện máy tính
+<br>
+Dự kiến sử dụng: Reactjs, NodeJS, Spring boot, Angular,...
